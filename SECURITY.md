@@ -1,5 +1,5 @@
 # Reporting a Vulnerability
 
-To privately report a security issue with our projects, please send an email to admin@nix-community.org. We will usually respond within 48 hours.
+Please see the security policy on our website: https://nix-community.org/security/
 
 Thank you.
